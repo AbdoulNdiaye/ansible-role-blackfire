@@ -10,7 +10,7 @@ An ansible role to install and configure Blackfire
 Requirements
 ------------
 
-None.
+Nothing.
 
 Role Variables
 --------------
